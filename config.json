@@ -1,0 +1,89 @@
+{
+    "arena": {
+        "onoff": "922575744671035492",
+        "logs": "922575744671035492"
+    },
+    "server id": "922575744671035492",
+    "stats": {
+        "members": "922575744671035492",
+        "boost": "922575744671035492"
+    },
+    "suggestion": {
+        "reacts": {
+            "sin ena": "922575744671035492",
+            "plein ena": "922575744671035492"
+        },
+        "channels":{
+            "channel ena": "SUGGESTION CHANNEL ID 1",
+            "channel deytero": "SUGGESTION CHANNEL ID 2"
+        }
+    },
+    "reports": {
+        "staff": "STAFF REPORT CHANNEL ID",
+        "logs-staff": "STAFF REPORT LOGS CHANNEL ID",
+        "player": "PLAYER REPORT CHANNEL ID",
+        "player logs": "PLAYER REPORT LOGS CHANNEL ID",
+        "ban appeal": "BAN APPEAL CHANNEL ID",
+        "ban appeal logs": "BAN APPEAL LOGS CHANNEL ID",
+        "bug": "BUG CHANNEL ID",
+        "bug logs": "BUG LOGSC CHANNEL ID"
+
+    },
+    "emojis": {
+        "right": "922575744671035492",
+        "left": "922575744671035492"
+    },
+    "staff": {
+        "owner": "922575744671035492",
+        "co-owner": "922575744671035492",
+        "managers": "922575744671035492",
+        "head admins": "922575744671035492",
+        "admins": "922575744671035492",
+        "moderator": "922575744671035492",
+        "helper": "922575744671035492"
+    },
+    "applications": {
+        "staff id": "921776432525496325",
+        "ekab id": "EKAB TEAM ROLE ID",
+        "astynomia id": "ASTYNOMIA ROLE ID",
+        "staff app": "STAFF APPLICATION",
+        "ekab app": "EKAB APPLICATION",
+        "astynomia app": "ASTYNOMIA APPLICATION"
+    },
+    "games channel id": "GAMES CHANNEL ID",
+    "mute role": "922575744671035492",
+    "civillian role": "922575744671035492",
+    "logs": {
+        "welcome": "922575744671035492",
+        "leave": "922575744671035492",
+        "messages":"922575744671035492",
+        "voice": "922575744671035492",
+        "role": "922575744671035492",
+        "bans": "922575744671035492",
+        "mute": "922575744671035492"
+    },
+    "autosystem": {
+        "support": "922575744671035492",
+        "donate": "922575744671035492"
+    },
+    "staff team role id": "922575744671035492",
+    "donate team role id": "922575744671035492",
+    "notifications": {
+        "support": "922575744671035492",
+        "donate": "922575744671035492"
+    },
+    "fivem":{
+        "ip": "51.195.61.25",
+        "port":"30120"
+    },
+    "livestatus": {
+        "channel": "922575744671035492",
+        "online": "922575744671035492",
+        "offline": "922575744671035492"
+    },
+    "token": "OTIyNTkxODI3NDU3MDkzNjk0.YcDsmA.k_-C6lJ82m9ScP4ZMyZeRWvkyI8",
+    "ticket": {
+        "message id": "922575744671035492",
+        "logs": "922575744671035492"
+    }
+}
